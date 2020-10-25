@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>首页</title>
+</head>
+<body>
+    <div>
+        <h5>现存商品{{all}}</h5>
+        <h5>价格{{money}}</h5>
+    </div>
+</body>
+</html>
